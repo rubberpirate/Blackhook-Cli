@@ -11,6 +11,12 @@ A covert command-line tool for establishing secure data exfiltration channels an
 
 BlackHook-CLI is similar to webhook.site but in the form of cli and can be run locally to carry out a variety of data exfiltration attacks
 
+# Images Side by Side
+
+| UI Screenshot | Requests View |
+|:-------------:|:-------------:|
+| <img src="images/ui.svg" alt="UI Screenshot" width="600"/> | <img src="images/requests.svg" alt="Requests View" width="600"/> |
+
 
 ## 🔥 Key Advantages
 
