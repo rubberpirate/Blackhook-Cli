@@ -1,8 +1,3 @@
-#!/usr/bin/env python3
-"""
-Webhook Capture CLI - A tool to capture and inspect webhook requests using Textual
-"""
-
 import asyncio
 import json
 import signal
